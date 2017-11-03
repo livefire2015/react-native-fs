@@ -537,7 +537,8 @@ var RNFS = {
   ExternalStorageDirectoryPath: RNFSManager.RNFSExternalStorageDirectoryPath,
   TemporaryDirectoryPath: RNFSManager.RNFSTemporaryDirectoryPath,
   LibraryDirectoryPath: RNFSManager.RNFSLibraryDirectoryPath,
-  PicturesDirectoryPath: RNFSManager.RNFSPicturesDirectoryPath
+  PicturesDirectoryPath: RNFSManager.RNFSPicturesDirectoryPath,
+  MoviesDirectoryPath: RNFSManager.RNFSMoviesDirectoryPath
 
 };
 
